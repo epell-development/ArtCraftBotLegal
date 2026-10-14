@@ -55,9 +55,7 @@ We do **not** use Bot data for targeted advertising or sell personal information
 
 The reviewed Bot code writes moderation records to a local JSON file (`moderations.json`) and protected mention settings to a local configuration file (`data/mention_monitor.json`). In addition, event logs and moderation notices may be posted as Discord messages in channels or direct messages.
 
-This is soon to be moved into a proper MariaDB Database hosted on the same server.
-
-The location of the bot's hosting environment is Sydney, NSW, Australia. We do not represent that all data is stored exclusively in Australia. Information sent through Discord is also subject to Discord's infrastructure and practices.
+The precise geographic location of the Bot's hosting environment is not established by the code reviewed. We do not represent that all data is stored exclusively in Australia. Information sent through Discord is also subject to Discord's infrastructure and practices.
 
 ## 5. Who Can Access Information
 
@@ -104,11 +102,11 @@ The Bot is intended for people eligible to use Discord under Discord's age requi
 
 ## 10. International Processing
 
-Because the Bot operates through Discord and may use infrastructure outside your location, information may be processed or accessed internationally. The country of the current Bot host has not been verified from the reviewed project and should be confirmed before making country-specific hosting commitments.
+The Bot itself is hosted in **Sydney, New South Wales, Australia**. However, Discord is a separate platform with its own infrastructure and data practices. Data passed to or through Discord, including messages, logging-channel posts, direct messages, and interaction information, may be processed, stored, or accessed outside Australia. See [Discord’s Privacy Policy](https://discord.com/privacy) for information about Discord’s handling of data.
 
 ## 11. Australian Privacy Considerations
 
-Individually from ArtCraft, the ArtCraft Server Management Bot operates from Australia. We aim to handle personal information consistently with applicable Australian privacy requirements to the extent they apply to our operations. Nothing in this policy limits statutory rights available to you under applicable law.
+ArtCraft operates from Australia. We aim to handle personal information consistently with applicable Australian privacy requirements to the extent they apply to our operations. Nothing in this policy limits statutory rights available to you under applicable law.
 
 ## 12. Changes to This Policy
 
