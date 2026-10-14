@@ -108,7 +108,7 @@ Because the Bot operates through Discord and may use infrastructure outside your
 
 ## 11. Australian Privacy Considerations
 
-ArtCraft operates from Australia. We aim to handle personal information consistently with applicable Australian privacy requirements to the extent they apply to our operations. Nothing in this policy limits statutory rights available to you under applicable law.
+Individually from ArtCraft, the ArtCraft Server Management Bot operates from Australia. We aim to handle personal information consistently with applicable Australian privacy requirements to the extent they apply to our operations. Nothing in this policy limits statutory rights available to you under applicable law.
 
 ## 12. Changes to This Policy
 
