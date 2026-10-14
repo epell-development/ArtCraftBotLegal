@@ -3,7 +3,7 @@
 **Effective date:** 14 October 2026  
 **Last updated:** 14 October 2026
 
-ArtCraft ("we", "us", or "our") operates **ArtCraft Bot** (the "Bot"), which provides Discord server management and moderation features. This Privacy Policy explains what information the Bot can access, how it uses and stores that information, when it may be disclosed, and how you can request access or deletion.
+**ArtCraft Bot** (the "Bot") is independently operated by an individual based in **Queensland, Australia**, separately from ArtCraft (the organisation or brand). In this policy, "we", "us", and "our" refer to the independent operator of ArtCraft Bot, not ArtCraft. The Bot provides Discord server management and moderation features. This Privacy Policy explains what information the Bot can access, how it uses and stores that information, when it may be disclosed, and how you can request access or deletion.
 
 This policy applies to data processed by ArtCraft Bot. Discord separately processes information under its own [Privacy Policy](https://discord.com/privacy).
 
@@ -55,13 +55,15 @@ We do **not** use Bot data for targeted advertising or sell personal information
 
 The reviewed Bot code writes moderation records to a local JSON file (`moderations.json`) and protected mention settings to a local configuration file (`data/mention_monitor.json`). In addition, event logs and moderation notices may be posted as Discord messages in channels or direct messages.
 
-The precise geographic location of the Bot's hosting environment is not established by the code reviewed. We do not represent that all data is stored exclusively in Australia. Information sent through Discord is also subject to Discord's infrastructure and practices.
+ArtCraft Bot is hosted on a server located in **Sydney, New South Wales, Australia**. Its current local data files are stored in that hosting environment. The Bot is independently operated from **Queensland, Australia**, separately from ArtCraft. A planned migration to MariaDB would place the database on the same Sydney server, but this has not yet been implemented.
+
+Although the Bot is hosted in Australia, information it sends to Discord (including logs, messages and direct messages) may be processed or stored outside Australia under Discord's own infrastructure and privacy practices. We therefore do not claim that all Bot-related information remains exclusively within Australia.
 
 ## 5. Who Can Access Information
 
 Information may be accessible to:
 
-- Authorised ArtCraft personnel who maintain or operate the Bot and its stored data.
+- The independent Bot operator and any persons explicitly authorised by that operator to maintain the Bot or access its stored data.
 - Server moderators and administrators with access to Bot commands, moderation history, or designated logging channels, as determined by permissions and configuration.
 - Discord, as the platform that carries the relevant messages, events, and interactions.
 - Infrastructure or technical service providers involved in operating the Bot, if applicable and subject to their service arrangements.
@@ -106,7 +108,7 @@ The Bot itself is hosted in **Sydney, New South Wales, Australia**. However, Dis
 
 ## 11. Australian Privacy Considerations
 
-ArtCraft operates from Australia. We aim to handle personal information consistently with applicable Australian privacy requirements to the extent they apply to our operations. Nothing in this policy limits statutory rights available to you under applicable law.
+ArtCraft Bot is **independently operated from Queensland, Australia**, separately from ArtCraft, and hosted in **Sydney, New South Wales, Australia**. We aim to handle personal information consistently with applicable Australian privacy requirements to the extent they apply to our operations. Nothing in this policy limits statutory rights available to you under applicable law.
 
 ## 12. Changes to This Policy
 
@@ -114,7 +116,7 @@ We may revise this Privacy Policy if Bot features, data practices, third-party s
 
 ## 13. Contact Us
 
-For privacy enquiries, access or deletion requests, and security concerns, contact ArtCraft via:
+For Bot privacy enquiries, access or deletion requests, and security concerns, use the following listed contact channels and identify your enquiry as relating to the independently operated ArtCraft Bot:
 
 - **Website:** https://getartcraft.com/
 - **Support Discord:** https://discord.gg/artcraft
