@@ -55,6 +55,8 @@ We do **not** use Bot data for targeted advertising or sell personal information
 
 The reviewed Bot code writes moderation records to a local JSON file (`moderations.json`) and protected mention settings to a local configuration file (`data/mention_monitor.json`). In addition, event logs and moderation notices may be posted as Discord messages in channels or direct messages.
 
+This is soon to be moved into a proper MariaDB Database hosted on the same server.
+
 The precise geographic location of the Bot's hosting environment is not established by the code reviewed. We do not represent that all data is stored exclusively in Australia. Information sent through Discord is also subject to Discord's infrastructure and practices.
 
 ## 5. Who Can Access Information
